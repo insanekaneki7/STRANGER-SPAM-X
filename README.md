@@ -1,4 +1,4 @@
-### 🌷𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑🌷
+### 🌷𝐊𝐀𝐍𝐄𝐊𝐈🌷
 
 <!--
 **itzshukla/itzshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,11 +9,11 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
 </p>
 
-<h1 align="center"><b>⚡️𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐒𝐏𝐀𝐌⚡️</b></h1>
+<h1 align="center"><b>⚡️𝐈𝐍𝐒𝐀𝐍𝐄 𝐒𝐏𝐀𝐌⚡️</b></h1>
 
 <h4 align="center">⚡️𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒⚡️</h4>
 
-<p align="center"><a href="https://t.me/shiva_ansh_op"><img src="https://graph.org/file/c6a2ed96648fd03377dc9.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/shiva_ansh_op"><img src="https://graph.org/file/3418c866e113794c04b37.png" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS STRANGER SPAM BOT, That is the greatest pleasure we have !
@@ -29,7 +29,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-SPAM-X)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/insanekaneki7/STRANGER-SPAM-X)
   
 </details>
 
@@ -51,4 +51,4 @@
 
 
 # ꜱᴜᴘᴘᴏʀᴛ ✨
-<a href="https://t.me/mastiwithfriendsx"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/insanesociety"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
